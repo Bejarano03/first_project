@@ -4,11 +4,16 @@
   "description": "homework assignment for AD320 for a basic nodejs project.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Marco Bejarano Oseguera",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bejarano03/first_project"
+}
 }
